@@ -95,7 +95,7 @@ class _BottomnavbarState extends State<Bottomnavbar> {
                       width: 25,
                       color: _selectedIndex == 1
                           ? const Color.fromARGB(129, 10, 112, 202)
-                          : Colors.grey,
+                          : Colors.black,
                     ),
                     const SizedBox(
                       height: 10,
